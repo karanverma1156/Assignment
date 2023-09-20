@@ -1,0 +1,14 @@
+.main-container {
+  height: 100vh;
+  background-color: #2330a1;
+}
+
+.login-modal {
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+  top: 15vh;
+  height: 500px;
+  width: 700px;
+  border: 2px solid yellow;
+}
